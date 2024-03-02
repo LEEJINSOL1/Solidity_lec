@@ -42,7 +42,7 @@ contract Purchase {
     // revert 조건없이 에러를 발생시키고 가스를 환불
     // assert gas를 다소비한 후 조건이 false일때 에러 발생
 
-   // msg.sender 예제 
+   // msg.sender 예제 .
    contract MyContract{
     address owner; 
 
